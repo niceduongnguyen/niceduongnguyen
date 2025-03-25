@@ -1,3 +1,4 @@
+<img alt='Profile Views' src='https://moe-counter.glitch.me/get/@niceduongnguyen?theme=moebooru' />
 
 - 🔭 I’m currently working on building personal website
 - 🌱 I’m currently learning to build ai agents

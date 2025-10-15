@@ -1,10 +1,7 @@
 <img alt='Profile Views' src='https://moe-counter.glitch.me/get/@niceduongnguyen?theme=moebooru' />
 
-- 🔭 I’m currently working on building personal website
 - 🌱 I’m currently learning to build ai agents
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about dev
+- 👯 I’m looking to collaborate on building my SaaS app
 - 📫 How to reach me: see bio
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love 2025
+- ⚡ Fun fact: i love </>
